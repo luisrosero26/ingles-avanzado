@@ -1,0 +1,22 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow21
+    next_flow: quiz22
+    pages:
+    - flow_id: page45
+      title: Verbo to be
+    - flow_id: page46
+      title: "M\xE1s verbo to be"
+    title: "Ingl\xE9s Avanzado m\xF3dulo 1"
+    title_next_flow: Realiza por favor el quiz
+  id: welcome
+  introduction: '<p><span style="font-family: &quot;Open Sans&quot;, Arial, sans-serif;
+    text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span><br></p>'
+  rules: []
+  title: "Ingl\xE9s Avanzado"
